@@ -1,0 +1,93 @@
+{
+  "version": "1778443236430",
+  "modify": [
+    {
+      "dir": "fr-he",
+      "old_n": "(litt.)",
+      "old_t": "להיפקד, לְהִפָּקֵד",
+      "n": "agir, opérer",
+      "p": "léhipakēde",
+      "t": "להיפקד, לְהִפָּקֵד"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(se priver de)",
+      "old_t": "לְהִתְנַזֵּר",
+      "n": "renoncer, éviter",
+      "p": "léhitnazēre",
+      "t": "לְהִתְנַזֵּר"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(tarder)",
+      "old_t": "לְהִתְמַהְמֵהַּ",
+      "n": "s'attarder, traîner",
+      "p": "léhitmahamēa",
+      "t": "לְהִתְמַהְמֵהַּ"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(être retenu)",
+      "old_t": "לְהִתְעַכֵּב",
+      "n": "être retardé, être retenu",
+      "p": "léhit'akēve",
+      "t": "לְהִתְעַכֵּב"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(en secret)",
+      "old_t": "לְהִסְתּוֹדֵד",
+      "n": "se concerter, conspirer",
+      "p": "léhistodēde",
+      "t": "לְהִסְתּוֹדֵד"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(temps)",
+      "old_t": "לחלוף, לַחְלֹף (זמן)",
+      "n": "passer, s'écouler (temps)",
+      "p": "laӿlōfe",
+      "t": "לחלוף, לַחְלֹף (זמן)"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(se replier)",
+      "old_t": "לָנוּס",
+      "n": "fuir, s'échapper",
+      "p": "lanoūsse",
+      "t": "לָנוּס"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(aéronef)",
+      "old_t": "לְהַמְרִיא",
+      "n": "atterir",
+      "p": "léhamrī",
+      "t": "לְהַמְרִיא"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(ricaner)",
+      "old_t": "לְלַגְלֵג",
+      "n": "se moquer",
+      "p": "lélaglēgue",
+      "t": "לְלַגְלֵג"
+    },
+    {
+      "dir": "fr-he",
+      "old_n": "(se dédier)",
+      "old_t": "לְהִתְחָרֵט",
+      "n": "regretter, changer d'avis",
+      "p": "léhitӿarēte",
+      "t": "לְהִתְחָרֵט"
+    },
+    {
+      "dir": "he-fr",
+      "old_n": "$ (לצמצם)",
+      "old_t": "diminuer",
+      "n": "לצמצם",
+      "p": "דִימִינוּאֶ",
+      "t": "diminuer"
+    }
+  ]
+}
